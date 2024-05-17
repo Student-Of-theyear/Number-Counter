@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: border-box;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+}
+
+span{
+    margin-left: 50px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 23px;
+
+}
+
+.btn-container{
+    margin: 8px 5px; 
+    border-radius: 7px;
+    font-weight: 600;
+}
